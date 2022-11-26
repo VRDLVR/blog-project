@@ -1,0 +1,29 @@
+#the-blog {
+    background-color: rgb(169, 168, 168);
+    border: 1px solid #000;  
+    text-align: center;
+}
+
+p {
+    border: 1px solid #000;
+    background-color: white ;
+
+    
+}
+
+
+body {
+    background-image: url("newspaper.jpg");
+}
+
+#container {
+    margin: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 45%;
+    background-color: grey ;
+    border-radius: 5px;
+    box-shadow: 5px 10px 13px 10px rgba(0.6,0.8,0.8,0.6);
+}
